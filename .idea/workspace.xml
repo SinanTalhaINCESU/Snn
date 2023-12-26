@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been created again">
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been created again and again.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day006/VariableDeclaration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day006/VariableDeclaration2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day007/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day007/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day006/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day005/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day005/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day007/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day006/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Variables">
+}]]></component>
+  <component name="RunManager" selected="Application.VariableDeclaration2">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day006.MainApp" />
       <module name="Snn" />
@@ -62,6 +68,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariableDeclaration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day008.VariableDeclaration" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableDeclaration2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day006.VariableDeclaration2" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day007.Variables" />
       <module name="Snn" />
@@ -77,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariableDeclaration2" />
+        <item itemvalue="Application.VariableDeclaration" />
         <item itemvalue="Application.Variables" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.Program" />
@@ -127,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703612463967</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Snn has been created again and again.">
+      <created>1703612555238</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612555238</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Snn has been created" />
     <MESSAGE value="Snn has been created again" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been created again" />
+    <MESSAGE value="Snn has been created again and again." />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been created again and again." />
   </component>
 </project>
