@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day001/Program.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been created">
       <change afterPath="$PROJECT_DIR$/src/day002/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day003/Program.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day004/Program.java" afterDir="false" />
@@ -104,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703292460142</updated>
     </task>
+    <task id="LOCAL-00001" summary="Snn has been created">
+      <created>1703612075601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612075601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Snn has been created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been created" />
   </component>
 </project>
