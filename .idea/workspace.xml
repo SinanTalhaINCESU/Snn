@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been created">
-      <change afterPath="$PROJECT_DIR$/src/day002/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day003/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day004/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day005/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day006/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day006/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day007/Variables.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been created again">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day007/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day007/Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,35 @@
       <option name="project" value="LOCAL" />
       <updated>1703612075601</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Snn has been created again">
+      <created>1703612374555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612374555</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Snn has been created again">
+      <created>1703612415715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612415715</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Snn has been created again">
+      <created>1703612444963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612444963</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Snn has been created again">
+      <created>1703612463967</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703612463967</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Snn has been created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been created" />
+    <MESSAGE value="Snn has been created again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been created again" />
   </component>
 </project>
