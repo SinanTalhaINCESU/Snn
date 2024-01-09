@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 9">
-      <change afterPath="$PROJECT_DIR$/src/day010/AtamaOperatorleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day010/Metotlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day010/Metotlar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day010/Metotlar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day010/Task.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 10">
+      <change afterPath="$PROJECT_DIR$/src/day011/Daire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day011/KarsilastirmaOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day011/RelatOrnekler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day011/TahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day011/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +40,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task">
-    <configuration name="AtamaOperatorleri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day010.AtamaOperatorleri" />
+  <component name="RunManager" selected="Application.Daire">
+    <configuration name="Daire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day011.Daire" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day010.*" />
+          <option name="PATTERN" value="day011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metotlar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day010.Metotlar" />
+    <configuration name="KarsilastirmaOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day011.KarsilastirmaOp" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day010.*" />
+          <option name="PATTERN" value="day011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metotlar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day010.Metotlar2" />
+    <configuration name="RelatOrnekler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day011.RelatOrnekler" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day010.*" />
+          <option name="PATTERN" value="day011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Metotlar3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day010.Metotlar3" />
+    <configuration name="TahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day011.TahminOyunu" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day010.*" />
+          <option name="PATTERN" value="day011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day010.Task" />
+    <configuration name="day011.Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day011.Task" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day010.*" />
+          <option name="PATTERN" value="day011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Metotlar3" />
-        <item itemvalue="Application.Metotlar2" />
-        <item itemvalue="Application.Metotlar" />
-        <item itemvalue="Application.AtamaOperatorleri" />
+        <item itemvalue="Application.Daire" />
+        <item itemvalue="Application.day011.Task" />
+        <item itemvalue="Application.TahminOyunu" />
+        <item itemvalue="Application.RelatOrnekler" />
+        <item itemvalue="Application.KarsilastirmaOp" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704662039940</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Snn has been changed, day 10">
+      <created>1704751532074</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704751532074</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +217,7 @@
     <MESSAGE value="Snn has been changed(day 8)" />
     <MESSAGE value="Snn has been changed, day 8" />
     <MESSAGE value="Snn has been changed, day 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 9" />
+    <MESSAGE value="Snn has been changed, day 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 10" />
   </component>
 </project>
