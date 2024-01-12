@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 13">
-      <change afterPath="$PROJECT_DIR$/src/day014/IfStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day014/Task6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day014/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day014/Task6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705008234007</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Snn has been changed, day 13">
+      <created>1705064099873</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705064099873</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -9,15 +9,15 @@ public class Task6 {
         Kullanıcı tarafından girilen 3 adet sayıdan en büyüğünü ekrana yazdıran Java programını yazın.
         */
 
-        Scanner inout=new Scanner(System.in);
+        Scanner input=new Scanner(System.in);
         System.out.printf("İlk sayıyı giriniz = ");
-        int ilkSayi= inout.nextInt();
+        int ilkSayi= input.nextInt();
 
         System.out.printf("İkinci sayıyı giriniz = ");
-        int ikinciSayi= inout.nextInt();
+        int ikinciSayi= input.nextInt();
 
         System.out.printf("Üçüncü sayıyı giriniz = ");
-        int üçüncüSayi= inout.nextInt();
+        int üçüncüSayi= input.nextInt();
 
         int max=ilkSayi;
         if (ilkSayi<ikinciSayi & ikinciSayi>üçüncüSayi){
