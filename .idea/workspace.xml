@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 17">
-      <change afterPath="$PROJECT_DIR$/src/day018/Task1.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705331191813</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Snn has been changed, day 18">
+      <created>1705414424747</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414424747</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +291,7 @@
     <MESSAGE value="Snn has been changed, day 16" />
     <MESSAGE value="Snn has been changed, day 16 v2" />
     <MESSAGE value="Snn has been changed, day 17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 17" />
+    <MESSAGE value="Snn has been changed, day 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 18" />
   </component>
 </project>

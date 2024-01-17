@@ -79,7 +79,6 @@ public class Task1 {
                 System.out.println("Yanlış seçim yaptınız.");break;
         }
 }
-
     private static int cevreHesapla(int k1, int k2) {
         return 2*(k1+k2);
     }
