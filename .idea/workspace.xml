@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 18">
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 18 v2">
+      <change afterPath="$PROJECT_DIR$/src/day019/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day019/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +37,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task1">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day018.Task1" />
+  <component name="RunManager" selected="Application.day019.Task1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day019.Main" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day018.*" />
+          <option name="PATTERN" value="day019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day017.Task3" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day018.Task1" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day017.*" />
+          <option name="PATTERN" value="day018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day017.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day017.Task2" />
+    <configuration name="day019.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day019.Task1" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day017.*" />
+          <option name="PATTERN" value="day019.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day019.Task1" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.day017.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705414424747</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Snn has been changed, day 18 v2">
+      <created>1705517658481</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1705517658482</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +301,7 @@
     <MESSAGE value="Snn has been changed, day 16 v2" />
     <MESSAGE value="Snn has been changed, day 17" />
     <MESSAGE value="Snn has been changed, day 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 18" />
+    <MESSAGE value="Snn has been changed, day 18 v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 18 v2" />
   </component>
 </project>
