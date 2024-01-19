@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 19">
-      <change afterPath="$PROJECT_DIR$/src/day020/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day020/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day020/Task2.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 20">
+      <change afterPath="$PROJECT_DIR$/src/day021/Array100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day021/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day021/ForWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day021/NestedFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day021/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day021/TriStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +42,38 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Task">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day019.Main" />
+    <configuration name="Array100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day021.Array100" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day019.*" />
+          <option name="PATTERN" value="day021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day021.ForEach" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day021.NestedFor" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day020.Task" />
+      <option name="MAIN_CLASS_NAME" value="day021.Task" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day020.*" />
+          <option name="PATTERN" value="day021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,38 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day020.Task2" />
+    <configuration name="TriStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day021.TriStar" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day019.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day019.Task1" />
-      <module name="Snn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day019.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day020.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day020.Task1" />
-      <module name="Snn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day020.*" />
+          <option name="PATTERN" value="day021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,10 +110,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.day020.Task1" />
-        <item itemvalue="Application.day019.Task1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array100" />
+        <item itemvalue="Application.TriStar" />
+        <item itemvalue="Application.NestedFor" />
+        <item itemvalue="Application.ForEach" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705585112252</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Snn has been changed, day 20">
+      <created>1705609081772</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1705609081773</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +321,7 @@
     <MESSAGE value="Snn has been changed, day 18" />
     <MESSAGE value="Snn has been changed, day 18 v2" />
     <MESSAGE value="Snn has been changed, day 19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 19" />
+    <MESSAGE value="Snn has been changed, day 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 20" />
   </component>
 </project>
