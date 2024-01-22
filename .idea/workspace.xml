@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 22">
-      <change afterPath="$PROJECT_DIR$/src/day023/CarTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day023/Rastgele.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 23">
+      <change afterPath="$PROJECT_DIR$/src/day023/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day023/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +37,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarTask">
+  <component name="RunManager" selected="Application.Rastgele">
     <configuration name="CarTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day023.CarTask" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopLabels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day022.LoopLabels" />
-      <module name="Snn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Toplamlar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day022.Toplamlar" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day023.Task2" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day022.*" />
+          <option name="PATTERN" value="day023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day023.Task3" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarTask" />
         <item itemvalue="Application.Rastgele" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.CarTask" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.Toplamlar" />
-        <item itemvalue="Application.LoopLabels" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705768886281</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Snn has been changed, day 23">
+      <created>1705842285509</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1705842285509</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +341,7 @@
     <MESSAGE value="Snn has been changed, day 20" />
     <MESSAGE value="Snn has been changed, day 21" />
     <MESSAGE value="Snn has been changed, day 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 22" />
+    <MESSAGE value="Snn has been changed, day 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 23" />
   </component>
 </project>
