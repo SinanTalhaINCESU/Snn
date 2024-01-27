@@ -11,10 +11,7 @@ public class DortIslem {
         this.sayi2=sayi2;
     }
 
-
-    public int topla(){
-        return sayi1+sayi2;
-    }
+    public int topla(){ return sayi1+sayi2; }
 
     public int carp(){
         return sayi1*sayi2;
