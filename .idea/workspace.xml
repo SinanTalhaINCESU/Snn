@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 27">
-      <change afterPath="$PROJECT_DIR$/src/day027/Aslan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day027/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day027/Program.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 27v2">
+      <change afterPath="$PROJECT_DIR$/src/day028/Dikdortgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day028/Kare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day028/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day028/Sekil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day028/Ucgen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.day028.Program">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day026.MainApp" />
       <module name="Snn" />
@@ -58,19 +60,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day027.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day026.Student" />
-      <module name="Snn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day028.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day028.Program" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day028.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day028.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.day027.Task" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.day026.Program" />
-        <item itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706370668218</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Snn has been changed, day 27v2">
+      <created>1706471138907</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471138907</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +392,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 11" />
     <MESSAGE value="Snn has been changed, day 12" />
     <MESSAGE value="Snn has been changed, day 13" />
     <MESSAGE value="Snn has been changed, day 14" />
@@ -408,6 +416,7 @@
     <MESSAGE value="Snn has been changed, day 26v2" />
     <MESSAGE value="Snn has been changed, day 26v3" />
     <MESSAGE value="Snn has been changed, day 26v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 26v4" />
+    <MESSAGE value="Snn has been changed, day 27v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 27v2" />
   </component>
 </project>
