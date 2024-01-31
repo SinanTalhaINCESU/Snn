@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 30">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 29v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -386,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706554231813</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Snn has been changed, day 29v2">
+      <created>1706643047889</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1706643047889</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -401,7 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 14" />
     <MESSAGE value="Snn has been changed, day 15" />
     <MESSAGE value="Snn has been changed, day 16" />
     <MESSAGE value="Snn has been changed, day 16 v2" />
@@ -426,6 +430,7 @@
     <MESSAGE value="Snn has been changed, day 27v2" />
     <MESSAGE value="Snn has been changed, day 28" />
     <MESSAGE value="Snn has been changed, day 29" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 29" />
+    <MESSAGE value="Snn has been changed, day 29v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 29v2" />
   </component>
 </project>

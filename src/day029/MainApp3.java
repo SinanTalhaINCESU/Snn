@@ -13,6 +13,7 @@ public class MainApp3 {
         for (int i = 0; i < hayvanlar.length; i++) {
             hayvanlar[i]=rnd.nextInt(100,1000)>500?new Kedi():new Koyun();
             hayvanlar[i].beslen();
+
         }
     }
 }
