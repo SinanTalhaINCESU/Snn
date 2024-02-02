@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 30">
-      <change afterPath="$PROJECT_DIR$/src/day030/Kitap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day030/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 31" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -409,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706799507304</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Snn has been changed, day 30v2">
+      <created>1706803595706</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1706803595706</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 16 v2" />
     <MESSAGE value="Snn has been changed, day 17" />
     <MESSAGE value="Snn has been changed, day 18" />
     <MESSAGE value="Snn has been changed, day 18 v2" />
@@ -449,6 +451,7 @@
     <MESSAGE value="Snn has been changed, day 29v2" />
     <MESSAGE value="Snn has been changed, day 29v3" />
     <MESSAGE value="Snn has been changed, day 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 30" />
+    <MESSAGE value="Snn has been changed, day 30v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 30v2" />
   </component>
 </project>

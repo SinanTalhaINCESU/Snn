@@ -15,6 +15,7 @@ public class MainApp {
         System.out.printf("Sayfa Adedi : ");
         kitap.setSayfaAdedi(input.nextInt());
 
+
         kaydet(kitap);
     }
     public static void kaydet(Kitap kitap){
