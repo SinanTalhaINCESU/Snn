@@ -1,10 +1,19 @@
-package day030;
+package day031;
 
 public class Kitap {
     private boolean gecerliMi=true;
     private String adi;
     private String yazari;
     private int sayfaAdedi;
+
+    public Kitap(){
+    }
+
+    public Kitap(String adi, String yazari, int sayfaAdedi){
+        this.adi = adi;
+        this.yazari = yazari;
+        this.sayfaAdedi = sayfaAdedi;
+    }
 
 
     public boolean isGecerliMi() {

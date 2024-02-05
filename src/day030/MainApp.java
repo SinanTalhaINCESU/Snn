@@ -1,5 +1,7 @@
 package day030;
 
+import day031.Kitap;
+
 import java.util.Scanner;
 
 public class MainApp {
