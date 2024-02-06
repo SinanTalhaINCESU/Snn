@@ -4,7 +4,11 @@ public class Gezgin {
 
     private int[] gittigiYol;
 
-    public int[] addYol(int km){
+    public int[] getYolListesi(){
+        return gittigiYol;
+    }
+
+    public int addYol(int km){
         if (gittigiYol==null){
             gittigiYol=new int[1];
             gittigiYol[0]=km;
@@ -13,8 +17,16 @@ public class Gezgin {
             for (int i = 0; i < gittigiYol.length; i++) {
                 tmp[i]=gittigiYol[i];
             }
-            gittigiYol[gittigiYol.length-1]=km;
+            gittigiYol=new int[gittigiYol.length+1];
+            for (int i = 0; i < tmp.length; i++) {
+                gittigiYol[i]=tmp[i];
+            }
+            gittigiYol[getYolListesi().length-1]=km;
         }
-        return gittigiYol;
+        int toplam=0;
+        for (int i = 0; i < gittigiYol.length; i++) {
+            toplam+=gittigiYol[i];
+        }
+        return toplam;
     }
 }
