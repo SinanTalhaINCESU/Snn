@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 34">
-      <change afterPath="$PROJECT_DIR$/src/day034/polymorphism/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day034/polymorphism/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day034/polymorphism/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day034/polymorphism/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day034/polymorphism/Sekil.java" afterDir="false" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 35">
+      <change afterPath="$PROJECT_DIR$/src/day035/Aslan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Avci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Kaplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Kartal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Kirlangic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/KopekBaligi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Koyun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Ucucu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day035/Yuzucu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +24,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,26 +47,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.day034.polymorphism.MainApp">
+  <component name="RunManager" selected="Application.day035.MainApp">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day033.MainApp" />
       <module name="Snn" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day033.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day032.MainApp2" />
-      <module name="Snn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day032.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day035.MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day035.MainApp" />
+      <module name="Snn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day035.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day035.MainApp" />
         <item itemvalue="Application.day034.polymorphism.MainApp" />
         <item itemvalue="Application.day034.MainApp" />
         <item itemvalue="Application.Notlar" />
         <item itemvalue="Application.MainApp" />
-        <item itemvalue="Application.MainApp2" />
       </list>
     </recent_temporary>
   </component>
@@ -125,13 +131,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703292460142</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Snn has been created again">
-      <created>1703612415715</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1703612415715</updated>
     </task>
     <task id="LOCAL-00004" summary="Snn has been created again">
       <created>1703612444963</created>
@@ -469,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707322218792</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Snn has been changed, day 34v2">
+      <created>1707324441052</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1707324441053</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 23" />
     <MESSAGE value="Snn has been changed, day 23v2" />
     <MESSAGE value="Snn has been changed, day 24" />
     <MESSAGE value="Snn has been changed, day 23.1" />
@@ -509,6 +514,7 @@
     <MESSAGE value="Snn has been changed, day 33" />
     <MESSAGE value="Snn has been changed, day 33v2" />
     <MESSAGE value="Snn has been changed, day 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 34" />
+    <MESSAGE value="Snn has been changed, day 34v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 34v2" />
   </component>
 </project>
