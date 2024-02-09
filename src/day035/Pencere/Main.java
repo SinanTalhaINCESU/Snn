@@ -21,5 +21,6 @@ public class Main {
 
         pencere.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         pencere.setVisible(true);
+
     }
 }

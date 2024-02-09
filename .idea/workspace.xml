@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 35">
-      <change afterPath="$PROJECT_DIR$/src/day035/Pencere/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day035/Pencere/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 35v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,13 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703292460142</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Snn has been created again">
-      <created>1703612463967</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1703612463967</updated>
     </task>
     <task id="LOCAL-00006" summary="Snn has been created again and again.">
       <created>1703612555238</created>
@@ -467,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707406907006</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Snn has been changed, day 35v2">
+      <created>1707407831966</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1707407831966</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -482,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 24" />
     <MESSAGE value="Snn has been changed, day 23.1" />
     <MESSAGE value="Snn has been changed, day 23.2" />
     <MESSAGE value="Snn has been changed, day ?" />
@@ -507,6 +502,7 @@
     <MESSAGE value="Snn has been changed, day 34" />
     <MESSAGE value="Snn has been changed, day 34v2" />
     <MESSAGE value="Snn has been changed, day 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 35" />
+    <MESSAGE value="Snn has been changed, day 35v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 35v2" />
   </component>
 </project>
