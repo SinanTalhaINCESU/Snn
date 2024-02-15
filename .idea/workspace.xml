@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 40v3">
-      <change afterPath="$PROJECT_DIR$/src/day040/MainApp4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 41" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,13 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703292460142</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Snn has been changed, day 16 v2">
-      <created>1705314255211</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1705314255211</updated>
     </task>
     <task id="LOCAL-00019" summary="Snn has been changed, day 17">
       <created>1705331191813</created>
@@ -466,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707929366455</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Snn has been changed, day 40v4">
+      <created>1707929805706</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1707929805706</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 29v3" />
     <MESSAGE value="Snn has been changed, day 30" />
     <MESSAGE value="Snn has been changed, day 30v2" />
     <MESSAGE value="Snn has been changed, day 30v3" />
@@ -506,6 +502,7 @@
     <MESSAGE value="Snn has been changed, day 40" />
     <MESSAGE value="Snn has been changed, day 40v2" />
     <MESSAGE value="Snn has been changed, day 40v3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 40v3" />
+    <MESSAGE value="Snn has been changed, day 40v4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 40v4" />
   </component>
 </project>
