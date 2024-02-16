@@ -10,7 +10,6 @@ public class MainApp2 {
             System.out.println("Kel var.");
         }
 
-
         String isim="Mehmet Ali Erbil";
         String replace = isim.replace('e','i');
         System.out.println(replace);
