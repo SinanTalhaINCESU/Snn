@@ -21,6 +21,5 @@ public class MainApp {
         System.out.println(str);
         System.out.println(str.toLowerCase());
 
-
     }
 }
