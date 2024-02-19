@@ -11,6 +11,7 @@ public class MainApp {
             System.out.println("Aynıdır.");
         }
 
+
         String str="Bu bir deneme mesajıdır.";
         System.out.println(str);
         str=str.toUpperCase();
