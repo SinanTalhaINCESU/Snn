@@ -15,6 +15,7 @@ public class MainApp2 {
         }
     }
 
+
     public static boolean isPalindrome(int sayi){
         boolean result=false;
         int tmp=sayi;
