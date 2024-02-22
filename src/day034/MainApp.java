@@ -3,6 +3,7 @@ package day034;
 public class MainApp {
     public static void main(String[] args) {
 
+
         String[][] zaman={
                 {"Pzt","Sal","Çar","Per","Cum","Cts","Paz"},
                 {"Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"},
