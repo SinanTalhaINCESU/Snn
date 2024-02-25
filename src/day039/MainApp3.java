@@ -16,7 +16,6 @@ public class MainApp3 {
         System.out.println(hideNames(isim));
     }
 
-
     public static String hideNames(String name){
         int indexSpace=name.indexOf(" ");
         String tmp="";
