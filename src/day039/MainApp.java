@@ -12,7 +12,6 @@ public class MainApp {
         System.out.println(trimStr);
         System.out.println();
 
-
         String strng="Merhaba kardeş!";
         String substring1 = strng.substring(8);
         System.out.println(substring1);
