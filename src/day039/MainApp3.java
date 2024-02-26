@@ -11,7 +11,6 @@ public class MainApp3 {
             İsim klavyeden alınıp, ekranda örnekteki gibi gösterim yapılacaktır.
             Örnek: Ahmet Dursun     A**** D*****
          */
-
         String isim= JOptionPane.showInputDialog(null,"İsminizi Giriniz:","İsim Gizleme",JOptionPane.PLAIN_MESSAGE);
         System.out.println(hideNames(isim));
     }
