@@ -27,5 +27,6 @@ public class MainApp {
 
         System.out.println(strng.substring(indexSpace+1));
         System.out.println(strng.substring(indexSpace+1,indexExc));
+
     }
 }
