@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed, day 41" />
+    <list default="true" id="60f5c083-0f9a-4d08-8bd9-4e6a6bbf7974" name="Changes" comment="Snn has been changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,20 +119,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703292460142</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Snn has been changed, day 26v3">
-      <created>1706344813063</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1706344813063</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Snn has been changed, day 26v4">
-      <created>1706370668218</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1706370668218</updated>
     </task>
     <task id="LOCAL-00036" summary="Snn has been changed, day 27v2">
       <created>1706471138907</created>
@@ -463,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709241169688</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Snn has been changed">
+      <created>1709412394680</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1709412394681</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Snn has been changed">
+      <created>1709413750358</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1709413750358</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Snn has been changed, day 32" />
     <MESSAGE value="Snn has been changed, day 33" />
     <MESSAGE value="Snn has been changed, day 33v2" />
     <MESSAGE value="Snn has been changed, day 34" />
@@ -503,6 +502,7 @@
     <MESSAGE value="Snn has been changed, day 41v3" />
     <MESSAGE value="Snn has been changed, day 41v4" />
     <MESSAGE value="Snn has been changed, day 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed, day 41" />
+    <MESSAGE value="Snn has been changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snn has been changed" />
   </component>
 </project>
