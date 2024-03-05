@@ -20,6 +20,5 @@ public class MainApp {
         String str=String.format("%s %s",str1,str2).toUpperCase();
         System.out.println(str);
         System.out.println(str.toLowerCase());
-
     }
 }
