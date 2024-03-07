@@ -17,7 +17,6 @@ public class MainApp2 {
         System.out.println(replace1);
         System.out.println(isim);
 
-
         String strng="";
         System.out.println(strng.length());
         if (strng.isEmpty()){
